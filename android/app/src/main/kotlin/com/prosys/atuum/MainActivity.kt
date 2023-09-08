@@ -1,4 +1,4 @@
-package com.example.atusum
+package com.prosys.atuum
 
 import io.flutter.embedding.android.FlutterActivity
 
